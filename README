@@ -1,0 +1,12 @@
+Exif Sync
+
+-- Setup
+brew install exiftool
+gem install mini_exiftool
+
+-- Usage
+
+ruby exif_sync.rb "original_dir" "dir_to_sync"
+
+
+Copyright Maxime Menant
