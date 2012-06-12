@@ -10,3 +10,4 @@ ruby exif_sync.rb "original_dir" "dir_to_sync"
 
 
 Copyright Maxime Menant
+
